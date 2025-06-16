@@ -7,10 +7,6 @@ Click on the rope handle to toggle the light. Includes sound effects, animations
 
 ---
 
-## 🔍 Demo
-
-🚀 Live Preview: [https://yourusername.github.io/interactive-lamp](file:///Users/md.mostofanayon/Desktop/Lamp%202.0/index.html)
----
 
 ## 📁 Project Structure
 interactive-lamp/
@@ -39,6 +35,13 @@ interactive-lamp/
 
 ![Image 17-6-25 at 12 13 AM](https://github.com/user-attachments/assets/ca593afd-4e4d-4621-9535-427bb7ddda36)![Image 17-6-25 at 12 14 AM](https://github.com/user-attachments/assets/c2365e77-be66-486b-af97-c0a5e8078d3c)
 
+🧪 Customize Your Lamp
+
+Feature	How to Customize
+💡 Light color	Edit .bulb.on in style.css
+🔊 Sound	Replace pull.mp3 in assets/
+🎨 Background	Change .room.light-on gradient
+🪢 Rope handle	Style .handle and .knot in CSS
 
 
 
