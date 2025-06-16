@@ -9,7 +9,7 @@ Click on the rope handle to toggle the light. Includes sound effects, animations
 
 ## 🔍 Demo
 
-🚀 Live Preview:file:///Users/md.mostofanayon/Desktop/Lamp%202.0/index.html
+🚀 Live Preview: [https://yourusername.github.io/interactive-lamp](file:///Users/md.mostofanayon/Desktop/Lamp%202.0/index.html)
 ---
 
 ## 📁 Project Structure
@@ -33,12 +33,6 @@ interactive-lamp/
 - ✅ Pure HTML, CSS, and JavaScript (no libraries)
 
 ---
-
-## 🛠️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/interactive-lamp.git
 
 
 🖼️ Screenshot
